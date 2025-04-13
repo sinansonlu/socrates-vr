@@ -1,0 +1,4 @@
+repository "VrPhilospohyVol2@mefesak@cloud"
+  path "/"
+    br "/main"
+    co "/main"
