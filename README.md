@@ -7,4 +7,6 @@
 
 #### Unity Project
 - To run the system, OpenAI API key should be entered to the OpenAIConfiguration in Assets/Resources.
-- The conversation logic is available in ChatBehavior.cs
+- The conversation logic is available in [ChatBehavior.cs](Assets/Samples/OpenAI/7.3.6/Chat/ChatBehaviour.cs) 
+
+
