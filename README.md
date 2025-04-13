@@ -1,1 +1,2 @@
 - To run the system, OpenAI API key should be entered to the OpenAIConfiguration in Assets/Resources.
+- The conversation logic is available in ChatBehavior.cs
